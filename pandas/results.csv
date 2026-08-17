@@ -1,0 +1,64 @@
+,subjects,grades
+0,Mathematics-I,E
+1,Applied Physics,E
+2,Communicative English,D
+3,Computer Engineering Workshop,A+
+4,Programming for Problem Solving Using C,D
+5,English Communication Skills Laboratory,A+
+6,Applied Physics Lab,A+
+7,Programming for Problem Solving Using C Lab,A+
+8,Mathematics-II,E
+9,Applied Chemistry,D
+10,Problem Solving Using Python,D
+11,Basic Electrical & Electronics Engineering,D
+12,Digital Logic Design,E
+13,Problem Solving Using Python Lab,C
+14,Applied Chemistry Lab,A
+15,Digital Logic Design Lab,B
+16,Mathematics-III,D
+17,Mathematical Foundations of Computer Science,D
+18,Data Structures,D
+19,Operating Systems,D
+20,Java Programming,B
+21,Data Structures Lab,A
+22,OS & UNIX Programming Lab,B
+23,Java Programming Lab,A
+24,Free and Open Source Software,A+
+25,Computer Organization & Architecture,D
+26,Probability and Statistics,D
+27,Formal Languages & Automata Theory,C
+28,Database Management Systems,C
+29,Managerial Economics and Financial Accountancy,D
+30,Computer Organization & Architecture Lab,A
+31,R Programming Lab,A
+32,Database Management Systems Lab,B
+33,Android Application Development,A
+34,Computer Networks,D
+35,Software Engineering,D
+36,Design and Analysis of Algorithms,E
+37,Open Elective-I,D
+38,Professional Elective-I,E
+39,Network Programming Lab,A+
+40,Software Engineering Lab,A
+41,Web Application Development-I,A+
+42,Environmental Science,A+
+43,Summer Internship,A+
+44,[Security subject],E
+45,Machine Learning,E
+46,Introduction to Cyber Security,D
+47,Professional Elective-II,D
+48,Open Elective-II,D
+49,Cyber Security Lab,A+
+50,Machine Learning Lab,A+
+51,Cryptography and Network Security Lab,A+
+52,Web Application Development-II,A+
+53,Employability Skills,D
+54,Professional Elective-III,B
+55,Professional Elective-IV,D
+56,Professional Elective-V,C
+57,Open Elective-III,D
+58,Open Elective-IV,C
+59,Humanities and Social Science Elective,C
+60,Multimedia Application Development,A
+61,Industrial/Research Internship,A+
+62,"Major Project Work, Seminar Internship",A+
